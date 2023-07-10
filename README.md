@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KurtKroeker. I integrate softwares. :)
 - 👀 I’m interested in dotnet, PowerShell, Chrome extensions, cloud computing, folk music, and more.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Angular
 - 💞️ I’m looking to collaborate on freelance projects.
 - 📫 How to reach me: `pwsh -c [Text.Encoding]::UTF8.GetString([convert]::FromBase64String('a3BrNTAwOEBnbWFpbC5jb20='))`
 
